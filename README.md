@@ -11,7 +11,7 @@ I'm a Computer Vision Engineer with 2+ years of hands-on experience in designing
 My recent work includes:
 - Creating own Tracker with independent Re-Identification, achieving SOTA-1 results on MOT17
 - Contributing to the [BoxMOT](https://github.com/Box-MOT/BoxMOT) library (added the SOTA BoostTrack tracker, made metrics of many trackers reproducible)
-- Real-time inference optimizations using **TensorRT**, **ONNX**, and **Triton Inference Server**
+- Real-time inference optimizations using **ONNX**, **TensorRT**, and **Triton Inference Server**
 - Model training with **PyTorch**, **Torch Lightning**, and distributed computing with **Ray**
 
 ---
