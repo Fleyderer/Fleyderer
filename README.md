@@ -1,6 +1,6 @@
 <h1>Hello, I am Michael <img src="https://github.com/Fleyderer/Fleyderer/blob/main/Assets/waving_hand.gif" width="28px" alt="👋"></h1>
 
-🎯 **Computer Vision Engineer** | 🧠 Multi-Object Tracking Researcher | 🧪 Contributor @ [BoxMOT](https://github.com/Box-MOT/BoxMOT)
+🎯 **Computer Vision Engineer** | 🧠 Multi-Object Tracking Researcher | 🧪 Contributor @ [BoxMOT](https://github.com/mikel-brostrom/boxmot)
 
 ---
 
