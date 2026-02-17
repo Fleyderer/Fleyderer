@@ -61,7 +61,7 @@ My recent work includes:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fleyderer&show_icons=true&theme=dark&hide_border=true" alt="Mikhail's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=fleyderer&show_icons=true&theme=dark&hide_border=true" alt="Mikhail's GitHub Stats" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=fleyderer&base=125)
