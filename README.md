@@ -6,7 +6,7 @@
 
 ### 💡 About Me
 
-I'm a Computer Vision Engineer with 2+ years of hands-on experience in designing and deploying deep learning models for real-world vision problems. My primary focus lies in **multi-object tracking (MOT)** and **object detection**, where I have experience across the full pipeline — from **data collection and annotation** to **model training, optimization, and production deployment**.
+I'm a Computer Vision Engineer with 3+ years of hands-on experience in designing and deploying deep learning models for real-world vision problems. My primary focus lies in **multi-object tracking (MOT)** and **object detection**, where I have experience across the full pipeline — from **data collection and annotation** to **model training, optimization, and production deployment**.
 
 My recent work includes:
 - Creating own Tracker with independent Re-Identification, achieving SOTA-1 results on MOT17
